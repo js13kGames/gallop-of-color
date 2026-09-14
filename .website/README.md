@@ -1,6 +1,6 @@
 ---
 video: https://youtu.be/pYco3PYPk-4
-# See github.com/js13kGames/hello-world for supported frontmatter
+post: https://roblouie.com/article/1367/the-making-of-gallop-of-color-js13k-2026/
 ---
 
 🌈 **The world has lost its color — time to bring it back!** Race from crystal to crystal, build your power, and paint the world with every gallop. 🦄
