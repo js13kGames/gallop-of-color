@@ -1,4 +1,8 @@
 ---
+genres:
+  - platformer
+  - adventure
+  - action
 video: https://youtu.be/pYco3PYPk-4
 post: https://roblouie.com/article/1367/the-making-of-gallop-of-color-js13k-2026/
 ---
